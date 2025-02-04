@@ -1,1 +1,1 @@
-# Sa-l-k-Uygulamas-Aray-z-
+# Sağlık Uygulaması Arayüzü
